@@ -2,11 +2,15 @@
 
 Welcome to the 3D Animation Website project! This project showcases the use of 3D animations to enhance user experience on a website.
 
+<img width="1582" alt="Screenshot 2024-12-26 at 11 01 19 PM" src="https://github.com/user-attachments/assets/48a98559-fd24-4fbb-b05b-41e7c708168c" />
+
 ## Features
 
 - **3D Animation Design**: Stunning 3D animations for banners, product showcases, and interactive elements.
 - **Responsive Design**: Ensures the website looks great on all devices.
 - **Modern Technologies**: Built with the latest web technologies for optimal performance.
+
+<img width="1582" alt="Screenshot 2024-12-26 at 11 26 31 PM" src="https://github.com/user-attachments/assets/bdf9bb65-0d95-4851-85a5-d6fa08be786d" />
 
 ## Sections
 
@@ -14,6 +18,8 @@ Welcome to the 3D Animation Website project! This project showcases the use of 3
 2. **Introduction**: Overview of the 3D animation design services offered.
 3. **Description**: Detailed information about the services and the team.
 4. **Contact**: Contact information for inquiries and support.
+
+<img width="1582" alt="Screenshot 2024-12-26 at 11 01 42 PM" src="https://github.com/user-attachments/assets/bde02a06-4773-4ce3-88ad-a438f5b01271" />
 
 ## Contact
 
@@ -23,15 +29,17 @@ Welcome to the 3D Animation Website project! This project showcases the use of 3
 - **GitHub**: [Jossyboydgenius](https://www.github.com/Jossyboydgenius)
 - **LinkedIn**: [Awe Joseph Olaitan](https://www.linkedin.com/in/awejosepholaitan)
 
+<img width="1582" alt="Screenshot 2024-12-26 at 11 01 48 PM" src="https://github.com/user-attachments/assets/130e250e-5f29-486e-823f-4c6a77e2ca34" />
+
 ## How to Run
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jossyboydgenius/3d-animation-website.git
+    https://github.com/Jossyboydgenius/ThreeJs-Animation-Scroll.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd 3d-animation-website
+    cd ThreeJs-Animation-Scroll
     ```
 3. Open `index.html` in your browser to view the website.
 
